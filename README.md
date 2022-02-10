@@ -1,5 +1,5 @@
 # 小果酱QPush
-官网地址：[https://qpush.xiaoguojiang.net](https://qpush.xiaoguojiang.net)
+官网地址：[https://www.xiaoguojiang.net](https://www.xiaoguojiang.net)
 ## 小果酱QPush消息推送是什么?
 小果酱消息推送是集成了QQ、微信、企业微信应用、企业微信群机器人、钉钉群自定义机器人、飞书群自定义机器人、短信、邮件等渠道的信息推送平台
 
