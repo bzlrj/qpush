@@ -16,4 +16,4 @@
 3、每种类型管道均支持增加多个接收账号。
 
 ## 界面预览
-![界面预览](https://raw.githubusercontent.com/bzlrj/qpush/main/2022011114075766%20(1).png "小果酱QPush")
+![界面预览](https://github.com/bzlrj/qpush/raw/main/2022011114075766.png "小果酱QPush")
